@@ -1,0 +1,46 @@
+"use strict";
+
+var magenta = "http://upload.wikimedia.org/wikipedia/commons/f/f1/Magenta.png";
+
+var resources = new Set([
+	"11fa4311ceabae96ac58b954921b2930f82724c2.png",
+	"1f49e02e088178d0aa7483135784ae22555c52b9.png",
+	"266a7e26836bc830512cd0ea919481562a0009df.png",
+	"41b8238caac031c265efe08544a21ac4be91f534.png",
+	"4879d59fc8fa0ce0ba5e87b4c34031f2e16ca5f9.png",
+	"4a2c4c60a0fc0e8320ae43afd0a60f52acf6fe35.png",
+	"4afb3220ff0e36afab7a0fcb6368c1c064885178.png",
+	"7dc1e1f289646ba15aeef107efe7026ebb58e8b1.png",
+	"8257a3e50f6ae19db4aeb2c978949b2d81021a61.png",
+	"84e216219729c2f916780a3b80950bc5afe0725e.png",
+	"a64bb599de5b4cff09cf5d93f68db2d563a7cf39.png",
+	"bbe605e78fc86bb2ab28109efa16a571701e8ab0.png",
+	"bd76cd8196c23aaf73139bc263002cf759afc1ce.png",
+	"ce8c87f1da7663e716162c2dcd43b1504e08fa93.png",
+	"d8bcb64f81ea66d2bb405a76352d1e54bf51ee0b.png",
+	"db5c26a467c4f5dee9804c7c88417103515c326a.png",
+	"dc81f60a9758824be51adf5523863d318b9a7142.png",
+	"f237f6c7e3b6c6aac01ae7f51cd917bdeb6ddec2.png"
+]);
+
+var slice = function(str, sep) {
+	var index = str.lastIndexOf(sep);
+	return index >= 0 ? str.slice(index + sep.length) : "";
+};
+
+var callback = function(details) {
+	var url = details["url"];
+	var resource = slice(url, "/");
+	if (resources.has(resource)) {
+		return { "redirectUrl": magenta };
+	}
+};
+
+var filter = { "urls": ["http://*/*.png"] };
+var options = ["blocking"];
+
+chrome.webRequest.onBeforeRequest.addListener(
+	callback,
+	filter,
+	options
+);
