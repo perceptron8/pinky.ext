@@ -20,5 +20,8 @@ var collectibles = [
 	"d8bcb64f81ea66d2bb405a76352d1e54bf51ee0b.png",
 	"db5c26a467c4f5dee9804c7c88417103515c326a.png",
 	"dc81f60a9758824be51adf5523863d318b9a7142.png",
-	"f237f6c7e3b6c6aac01ae7f51cd917bdeb6ddec2.png"
+	"f237f6c7e3b6c6aac01ae7f51cd917bdeb6ddec2.png",
+	"c55f730b452e9ac32a2fa2de53f71493712a2db5.png",
+	"6d11dcde93afce91bc146f88e622f450201e4fff.png",
+	"144e19ee3f16e12972695cea95ba2024b9dec3cf.png"
 ];
