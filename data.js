@@ -1,8 +1,8 @@
-"use strict";
+var magenta =
+	"http://upload.wikimedia.org/wikipedia/commons/f/f1/Magenta.png"
+;
 
-var magenta = "http://upload.wikimedia.org/wikipedia/commons/f/f1/Magenta.png";
-
-var resources = new Set([
+var collectibles = [
 	"11fa4311ceabae96ac58b954921b2930f82724c2.png",
 	"1f49e02e088178d0aa7483135784ae22555c52b9.png",
 	"266a7e26836bc830512cd0ea919481562a0009df.png",
@@ -21,26 +21,4 @@ var resources = new Set([
 	"db5c26a467c4f5dee9804c7c88417103515c326a.png",
 	"dc81f60a9758824be51adf5523863d318b9a7142.png",
 	"f237f6c7e3b6c6aac01ae7f51cd917bdeb6ddec2.png"
-]);
-
-var slice = function(str, sep) {
-	var index = str.lastIndexOf(sep);
-	return index >= 0 ? str.slice(index + sep.length) : "";
-};
-
-var callback = function(details) {
-	var url = details["url"];
-	var resource = slice(url, "/");
-	if (resources.has(resource)) {
-		return { "redirectUrl": magenta };
-	}
-};
-
-var filter = { "urls": ["http://*/*.png"] };
-var options = ["blocking"];
-
-chrome.webRequest.onBeforeRequest.addListener(
-	callback,
-	filter,
-	options
-);
+];
