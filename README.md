@@ -1,4 +1,4 @@
 pinky
 =====
 
-Google Chrome extension that makes all TSO collectibles pink!
+Chrome extension that makes TSO collectibles pink... and easy to find!!
