@@ -1,8 +1,8 @@
 pinky
 =====
 
-Chrome extension making [The Settlers Online](http://www.thesettlersonline.com/) collectibles pink... and easy to find!
-
+Chrome extension making [The Settlers Online](http://www.thesettlersonline.com/) collectibles
+pink... and easy to find!
 
 ## What does it do?
 
@@ -22,8 +22,8 @@ It replaces...
 ## How it works?
 
 It intercepts some of requests made by your browser (see: [permissions](#Permissions)).
-Or by flash plugin running within your browser, to be specific.
-If request's url matches one of known collectibles urls, request is redirected to something more visible.
+Or, by flash plugin running within your browser, to be specific.
+If request's url matches one of known collectibles urls, it is redirected to something more... visible.
 
 ## Where can I get it?
 
@@ -33,4 +33,4 @@ Happy collecting! ;-)
 
 ## Permissions
 
-Pinky is not greedy. It only needs to read and modify data from [static.cdn.ubi.com](http://static.cdn.ubi.com) sites. No more, no less. That's it!
+Pinky *is not* greedy. It only needs to read and modify data from [static.cdn.ubi.com](http://static.cdn.ubi.com) site. No more, no less. That's it!
