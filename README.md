@@ -1,9 +1,10 @@
 pinky
 =====
 
-Chrome extension that makes '[The Settlers Online](http://www.thesettlersonline.com/)' collectibles pink... and easy to find!
+Chrome extension making [The Settlers Online](http://www.thesettlersonline.com/) collectibles pink... and easy to find!
 
-## What it does?
+
+## What does it do?
 
 Pinky replaces
 
