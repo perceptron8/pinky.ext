@@ -6,7 +6,7 @@ Chrome extension making [The Settlers Online](http://www.thesettlersonline.com/)
 
 ## What does it do?
 
-It replaces
+replaces
 
 ![](http://static.cdn.ubi.com/0018/live/GFX_HASHED/building_lib/41b8238caac031c265efe08544a21ac4be91f534.png)
 ![](http://static.cdn.ubi.com/0018/live/GFX_HASHED/building_lib/7dc1e1f289646ba15aeef107efe7026ebb58e8b1.png)
@@ -21,7 +21,7 @@ with
 
 ## How it works?
 
-This extension intercepts some of requests made by your browser (see: [permissions](#Permissions)).
+It intercepts some of requests made by your browser (see: [permissions](#Permissions)).
 By flash plugin running within your browser, to be specific. If request's url matches one of known collectibles urls,
 request is redirected to something more visible.
 
