@@ -6,7 +6,7 @@ Chrome extension making [The Settlers Online](http://www.thesettlersonline.com/)
 
 ## What does it do?
 
-Pinky replaces
+It replaces
 
 ![](http://static.cdn.ubi.com/0018/live/GFX_HASHED/building_lib/41b8238caac031c265efe08544a21ac4be91f534.png)
 ![](http://static.cdn.ubi.com/0018/live/GFX_HASHED/building_lib/7dc1e1f289646ba15aeef107efe7026ebb58e8b1.png)
@@ -27,4 +27,4 @@ request is redirected to something more visible.
 
 ## Permissions
 
-Pinky is *not* greedy. It only needs to read and modify data from [*.cdn.ubi.com](http://cdn.ubi.com) sites. Neither more nor less. That's it!
+Pinky is not greedy. It only needs to read and modify data from [*.cdn.ubi.com](http://cdn.ubi.com) sites. No more, no less. That's it!
