@@ -25,6 +25,10 @@ It intercepts some of requests made by your browser (see: [permissions](#Permiss
 By flash plugin running within your browser, to be specific. If request's url matches one of known collectibles urls,
 request is redirected to something more visible.
 
+## Where can I get it?
+
+// TODO
+
 ## Permissions
 
 Pinky is not greedy. It only needs to read and modify data from [*.cdn.ubi.com](http://cdn.ubi.com) sites. No more, no less. That's it!
