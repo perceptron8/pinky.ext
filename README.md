@@ -21,7 +21,7 @@ It replaces...
 
 ## How it works?
 
-It intercepts some of requests made by your browser (see: [#Permissions](#permissions)).
+It intercepts some of requests made by your browser (see: [#Permissions](#Permissions)).
 Or, by flash plugin running within your browser, to be specific.
 If request's url matches one of known collectibles urls, it is redirected to something more... visible.
 Check [JavaScript APIs](https://developer.chrome.com/extensions/api_index) for details.
