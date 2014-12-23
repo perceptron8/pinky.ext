@@ -8,6 +8,7 @@
   "author": "perceptron8",
   "homepage_url": "https://github.com/perceptron8/pinky",
   
+  "short_name": "Pinky",
   "description": "Chrome extension making 'The Settlers Online' collectibles pink... and easy to find!",
   "icons": {
     "48": "icon.png"
