@@ -6,7 +6,7 @@ Chrome extension making [The Settlers Online](http://www.thesettlersonline.com/)
 
 ## What does it do?
 
-replaces
+It replaces...
 
 ![](http://static.cdn.ubi.com/0018/live/GFX_HASHED/building_lib/41b8238caac031c265efe08544a21ac4be91f534.png)
 ![](http://static.cdn.ubi.com/0018/live/GFX_HASHED/building_lib/7dc1e1f289646ba15aeef107efe7026ebb58e8b1.png)
@@ -15,7 +15,7 @@ replaces
 ![](http://static.cdn.ubi.com/0018/live/GFX_HASHED/building_lib/db5c26a467c4f5dee9804c7c88417103515c326a.png)
 ![](http://static.cdn.ubi.com/0018/live/GFX_HASHED/building_lib/f237f6c7e3b6c6aac01ae7f51cd917bdeb6ddec2.png)
 
-with
+... with
 
 ![](magenta.png)
 
