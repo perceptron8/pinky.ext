@@ -3,7 +3,6 @@ pinky
 
 Chrome extension that makes 'The Settlers Online' collectibles pink... and easy to find!
 
-<div style="vercical-align: middle;">
 changes
 ![](http://static.cdn.ubi.com/0018/live/GFX_HASHED/building_lib/11fa4311ceabae96ac58b954921b2930f82724c2.png)
 ![](http://static.cdn.ubi.com/0018/live/GFX_HASHED/building_lib/41b8238caac031c265efe08544a21ac4be91f534.png)
@@ -14,4 +13,3 @@ changes
 ![](http://static.cdn.ubi.com/0018/live/GFX_HASHED/building_lib/f237f6c7e3b6c6aac01ae7f51cd917bdeb6ddec2.png)
 into
 ![](magenta.png)
-</div>
