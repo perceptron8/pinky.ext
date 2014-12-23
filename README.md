@@ -22,12 +22,14 @@ It replaces...
 ## How it works?
 
 It intercepts some of requests made by your browser (see: [permissions](#Permissions)).
-By flash plugin running within your browser, to be specific. If request's url matches one of known collectibles urls,
-request is redirected to something more visible.
+Or by flash plugin running within your browser, to be specific.
+If request's url matches one of known collectibles urls, request is redirected to something more visible.
 
 ## Where can I get it?
 
 // TODO
+
+Happy collecting! ;-)
 
 ## Permissions
 
