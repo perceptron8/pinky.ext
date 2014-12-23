@@ -33,4 +33,4 @@ Happy collecting! ;-)
 
 ## Permissions
 
-Pinky is not greedy. It only needs to read and modify data from [*.cdn.ubi.com](http://cdn.ubi.com) sites. No more, no less. That's it!
+Pinky is not greedy. It only needs to read and modify data from [static.cdn.ubi.com](http://static.cdn.ubi.com) sites. No more, no less. That's it!

@@ -35,6 +35,6 @@
   "permissions": [
     "webRequest",
     "webRequestBlocking",
-    "http://*.cdn.ubi.com/"
+    "http://static.cdn.ubi.com/"
   ]
 }
