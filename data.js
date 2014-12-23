@@ -3,6 +3,7 @@ var magenta =
 ;
 
 var collectibles = [
+	// Ordinary Collectivles
 	"11fa4311ceabae96ac58b954921b2930f82724c2.png",
 	"1f49e02e088178d0aa7483135784ae22555c52b9.png",
 	"266a7e26836bc830512cd0ea919481562a0009df.png",
@@ -21,7 +22,8 @@ var collectibles = [
 	"db5c26a467c4f5dee9804c7c88417103515c326a.png",
 	"dc81f60a9758824be51adf5523863d318b9a7142.png",
 	"f237f6c7e3b6c6aac01ae7f51cd917bdeb6ddec2.png",
-	"c55f730b452e9ac32a2fa2de53f71493712a2db5.png",
+	// Christmas Event
+	"144e19ee3f16e12972695cea95ba2024b9dec3cf.png",
 	"6d11dcde93afce91bc146f88e622f450201e4fff.png",
-	"144e19ee3f16e12972695cea95ba2024b9dec3cf.png"
+	"c55f730b452e9ac32a2fa2de53f71493712a2db5.png"
 ];

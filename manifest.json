@@ -8,7 +8,7 @@
   "author": "perceptron8",
   "homepage_url": "https://github.com/perceptron8/pinky",
   
-  "description": "Chrome extension that makes TSO collectibles pink... and easy to find!",
+  "description": "Chrome extension that makes 'The Settlers Online' collectibles pink... and easy to find!",
   "icons": {
     "48": "icon.png"
   },
@@ -28,9 +28,13 @@
     ]
   },
   
+  "web_accessible_resources": [
+    "magenta.png"
+  ],
+  
   "permissions": [
     "webRequest",
     "webRequestBlocking",
-    "*://*.cdn.ubi.com/"
+    "http://*.cdn.ubi.com/"
   ]
 }
