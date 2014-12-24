@@ -8,7 +8,7 @@
   "author": "perceptron8",
   
   "short_name": "Pinky",
-  "description": "Chrome extension making 'The Settlers Online' collectibles pink... and easy to find!",
+  "description": "Chrome extension making 'The Settlers Online' collectibles easy to find!",
   "icons": {
     "128": "icon.png"
   },

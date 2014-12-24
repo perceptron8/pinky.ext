@@ -1,8 +1,7 @@
 pinky
 =====
 
-Chrome extension making [The Settlers Online](http://www.thesettlersonline.com/) collectibles
-pink... and easy to find!
+Chrome extension making [The Settlers Online](http://www.thesettlersonline.com/) collectibles easy to find!
 
 ## What does it do?
 
