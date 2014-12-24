@@ -3,10 +3,9 @@
   "minimum_chrome_version": "38",
   
   "name": "Pinky",
-  "version": "0.1",
+  "version": "0.1.2",
   
   "author": "perceptron8",
-  "homepage_url": "https://github.com/perceptron8/pinky",
   
   "short_name": "Pinky",
   "description": "Chrome extension making 'The Settlers Online' collectibles pink... and easy to find!",
