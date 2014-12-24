@@ -14,6 +14,7 @@ It replaces...
 ![](http://static.cdn.ubi.com/0018/live/GFX_HASHED/building_lib/bd76cd8196c23aaf73139bc263002cf759afc1ce.png)
 ![](http://static.cdn.ubi.com/0018/live/GFX_HASHED/building_lib/db5c26a467c4f5dee9804c7c88417103515c326a.png)
 ![](http://static.cdn.ubi.com/0018/live/GFX_HASHED/building_lib/f237f6c7e3b6c6aac01ae7f51cd917bdeb6ddec2.png)
+...
 
 ... with
 
