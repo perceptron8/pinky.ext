@@ -11,12 +11,12 @@
   "short_name": "Pinky",
   "description": "Chrome extension making 'The Settlers Online' collectibles pink... and easy to find!",
   "icons": {
-    "48": "icon.png"
+    "128": "icon.png"
   },
   
   "browser_action": {
     "default_icon": {
-      "48": "icon.png"
+      "128": "icon.png"
     },
     "default_title": "Pinky",
     "default_popup": "popup.html"
