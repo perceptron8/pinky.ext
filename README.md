@@ -22,18 +22,17 @@ It replaces...
 ## How it works?
 
 It intercepts some of requests made by your browser (see: [#Permissions](#Permissions)).
-Or, by flash plugin running within your browser, to be specific.
 If request's url matches one of known collectibles urls, it is redirected to something more... visible.
-Check [JavaScript APIs](https://developer.chrome.com/extensions/api_index) for details.
+Check out [Chrome JavaScript APIs](https://developer.chrome.com/extensions/webRequest) for details.
 
 ## Where can I get it?
 
-You can install Pinky directly from [Chrome Web Store](https://chrome.google.com/webstore/detail/pinky/eijmklfnehnnkbfcoabieogaomookbna).
+You can install Pinky directly from [Chrome Web Store](https://chrome.google.com/webstore/detail/pinky/eijmklfnehnnkbfcoabieogaomookbna) with just one click.
 Happy collecting! ;-)
 
 ## Permissions
 
-Pinky *is not* greedy. It only needs to read and modify data from [static.cdn.ubi.com](http://static.cdn.ubi.com) site. No more, no less.
+Pinky is not greedy! It only needs to read and modify data from [static.cdn.ubi.com](http://static.cdn.ubi.com) site.
 
 ## Tips
 
