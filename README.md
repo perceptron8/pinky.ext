@@ -28,8 +28,7 @@ Check [JavaScript APIs](https://developer.chrome.com/extensions/api_index) for d
 
 ## Where can I get it?
 
-// TODO
-
+You can install Pinky directly from [Chrome Web Store](https://chrome.google.com/webstore/detail/pinky/eijmklfnehnnkbfcoabieogaomookbna).
 Happy collecting! ;-)
 
 ## Permissions
