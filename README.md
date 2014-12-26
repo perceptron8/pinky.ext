@@ -1,11 +1,13 @@
 pinky
 =====
 
+<img src="icon.png" style="width: 50px;"/>
+
 Chrome extension making [The Settlers Online](http://www.thesettlersonline.com/) collectibles easy to find!
 
 ## What does it do?
 
-It replaces...
+Pinky replaces...
 
 ![](http://static.cdn.ubi.com/0018/live/GFX_HASHED/building_lib/41b8238caac031c265efe08544a21ac4be91f534.png)
 ![](http://static.cdn.ubi.com/0018/live/GFX_HASHED/building_lib/7dc1e1f289646ba15aeef107efe7026ebb58e8b1.png)
@@ -28,6 +30,9 @@ Check out [Chrome JavaScript APIs](https://developer.chrome.com/extensions/webRe
 ## Where can I get it?
 
 You can install Pinky directly from [Chrome Web Store](https://chrome.google.com/webstore/detail/pinky/eijmklfnehnnkbfcoabieogaomookbna) with just one click.
+
+<a href="https://chrome.google.com/webstore/detail/pinky/eijmklfnehnnkbfcoabieogaomookbna"><img src="https://developer.chrome.com/webstore/images/ChromeWebStore_Badge_v2_206x58.png"/></a>
+
 Happy collecting! ;-)
 
 ## Permissions
@@ -38,4 +43,4 @@ Pinky is not greedy! It only needs to read and modify data from [static.cdn.ubi.
 
 Only if you really like it...
 
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=BVCT6E8FW7P7Q&lc=US&item_name=perceptron8%2fpinky&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif"/></a>
+<p><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=BVCT6E8FW7P7Q&lc=US&item_name=perceptron8%2fpinky&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif"/></a></p>
