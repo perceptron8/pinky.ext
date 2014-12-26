@@ -1,7 +1,7 @@
 pinky
 =====
 
-<img src="icon.png" style="width: 50px;"/>
+![](icon.png)
 
 Chrome extension making [The Settlers Online](http://www.thesettlersonline.com/) collectibles easy to find!
 
