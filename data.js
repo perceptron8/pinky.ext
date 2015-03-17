@@ -27,5 +27,7 @@ var collectibles = [
 	// Christmas Event
 	"144e19ee3f16e12972695cea95ba2024b9dec3cf.png",
 	"6d11dcde93afce91bc146f88e622f450201e4fff.png",
-	"c55f730b452e9ac32a2fa2de53f71493712a2db5.png"
+	"c55f730b452e9ac32a2fa2de53f71493712a2db5.png",
+	// Easter Event
+	"d5de5a5369c541c8b9f1d2efe2a3a7d5b7acd4cb.png"
 ];
