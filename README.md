@@ -5,7 +5,7 @@ pinky
 
 Chrome extension making [The Settlers Online](http://www.thesettlersonline.com/) collectibles easy to find!
 
-## What does it do?
+## What?
 
 Pinky replaces...
 
@@ -21,13 +21,13 @@ Pinky replaces...
 
 ![](magenta.png)
 
-## How it works?
+## How?
 
 It intercepts some of requests made by your browser (see: [#Permissions](#Permissions)).
 If request's url matches one of known collectibles urls, it is redirected to something more... visible.
 Check out [Chrome JavaScript APIs](https://developer.chrome.com/extensions/webRequest) for details.
 
-## Where can I get it?
+## Where?
 
 You can install Pinky directly from [Chrome Web Store](https://chrome.google.com/webstore/detail/pinky/eijmklfnehnnkbfcoabieogaomookbna) with just one click.
 
