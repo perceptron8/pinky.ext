@@ -1,7 +1,6 @@
 "use strict";
 
 var collectibles = new Set(collectibles);
-var magenta = decodeURI(magenta);
 
 var slice = function(str, sep) {
 	var index = str.lastIndexOf(sep);
@@ -11,7 +10,7 @@ var slice = function(str, sep) {
 var callback = function(details) {
 	var resource = slice(details.url, "/");
 	if (collectibles.has(resource)) {
-		return { "redirectUrl": magenta };
+		return { "redirectUrl": replacement };
 	}
 };
 
