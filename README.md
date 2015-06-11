@@ -19,7 +19,7 @@ Pinky replaces...
 
 ... with
 
-![](magenta.png)
+![](http://dummyimage.com/48x48/ff00ff/ff00ff.png)
 
 ## How?
 
