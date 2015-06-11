@@ -1,13 +1,6 @@
 var replacement = decodeURI(
-	"http://upload.wikimedia.org/wikipedia/commons/f/f1/Magenta.png"
+	"http://dummyimage.com/128x128/ff00ff/ff00ff.png"
 );
-
-//https://code.google.com/p/chromium/issues/detail?id=345160
-//https://code.google.com/p/chromium/issues/detail?id=484016
-
-//var replacement = chrome.extension.getURL(
-//	"magenta.png"
-//);
 
 var collectibles = [
 	// Ordinary Collectivles
