@@ -3,7 +3,7 @@ var replacement = decodeURI(
 );
 
 var collectibles = [
-	// Ordinary Collectivles
+	// Ordinary Collectibles
 	"11fa4311ceabae96ac58b954921b2930f82724c2.png",
 	"41b8238caac031c265efe08544a21ac4be91f534.png",
 	"4afb3220ff0e36afab7a0fcb6368c1c064885178.png",
