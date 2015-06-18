@@ -2,6 +2,12 @@ var replacement = decodeURI(
 	"http://dummyimage.com/128x128/ff00ff/ff00ff.png"
 );
 
+//collectible_scarecrow
+//collectible_herbs
+//collectible_banner
+//collectible_grain_sacks
+//collectible_wine_barrel
+
 var collectibles = [
 	// Ordinary Collectibles
 	"11fa4311ceabae96ac58b954921b2930f82724c2.png",
