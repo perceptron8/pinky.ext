@@ -2,38 +2,31 @@ var replacement = decodeURI(
 	"http://dummyimage.com/128x128/ff00ff/ff00ff.png"
 );
 
-//collectible_scarecrow
-//collectible_herbs
-//collectible_banner
-//collectible_grain_sacks
-//collectible_wine_barrel
+// http://static.cdn.ubi.com/0018/live/GFX_HASHED/building_lib/
 
 var collectibles = [
-	// Ordinary Collectibles
-	"11fa4311ceabae96ac58b954921b2930f82724c2.png",
-	"41b8238caac031c265efe08544a21ac4be91f534.png",
-	"4afb3220ff0e36afab7a0fcb6368c1c064885178.png",
-	"7dc1e1f289646ba15aeef107efe7026ebb58e8b1.png",
-	"8257a3e50f6ae19db4aeb2c978949b2d81021a61.png",
-	"bd76cd8196c23aaf73139bc263002cf759afc1ce.png",
-	"db5c26a467c4f5dee9804c7c88417103515c326a.png",
-	"f237f6c7e3b6c6aac01ae7f51cd917bdeb6ddec2.png",
-	// Adventures
-	"266a7e26836bc830512cd0ea919481562a0009df.png",
-	"4879d59fc8fa0ce0ba5e87b4c34031f2e16ca5f9.png",
-	// World Cup Event
-	"1f49e02e088178d0aa7483135784ae22555c52b9.png",
-	"4a2c4c60a0fc0e8320ae43afd0a60f52acf6fe35.png",
-	"84e216219729c2f916780a3b80950bc5afe0725e.png",
-	"a64bb599de5b4cff09cf5d93f68db2d563a7cf39.png",
-	"bbe605e78fc86bb2ab28109efa16a571701e8ab0.png",
-	"ce8c87f1da7663e716162c2dcd43b1504e08fa93.png",
-	"d8bcb64f81ea66d2bb405a76352d1e54bf51ee0b.png",
-	"dc81f60a9758824be51adf5523863d318b9a7142.png",
-	// Christmas Event
-	"144e19ee3f16e12972695cea95ba2024b9dec3cf.png",
-	"6d11dcde93afce91bc146f88e622f450201e4fff.png",
-	"c55f730b452e9ac32a2fa2de53f71493712a2db5.png",
-	// Easter Event
-	"d5de5a5369c541c8b9f1d2efe2a3a7d5b7acd4cb.png"
+	"266a7e26836bc830512cd0ea919481562a0009df.png", // collectible_adamantium.png
+	"7dc1e1f289646ba15aeef107efe7026ebb58e8b1.png", // collectible_banner.png
+	"1dd24082bcd22fc20777357499e2394897e2a37a.png", // collectible_barrels.png
+	"df8a33947846c9f8ce2f2902a0cdba4adf8b7b48.png", // collectible_boards.png
+	"4879d59fc8fa0ce0ba5e87b4c34031f2e16ca5f9.png", // collectible_bronze_cauldron.png
+	"0c1d43eea8d2e74ab52103c30e3ac2f6eea5dd91.png", // collectible_bucket.png
+	"5621cbed3a6b20791e0439123b8231b459a668ea.png", // collectible_dead_tree_wood.png
+	"d5de5a5369c541c8b9f1d2efe2a3a7d5b7acd4cb.png", // collectible_egg.png
+	"ab5333c0dc06caddc500444d976132936aa98eab.png", // collectible_fire_wood.png
+	"1515f7c8c753cc379ea7056062297f92d5ccfe85.png", // collectible_flower.png
+	"41b8238caac031c265efe08544a21ac4be91f534.png", // collectible_food_cart.png
+	"0a1384a56afe4f1469fe2f2ea87a0e1cd0c3af64.png", // collectible_furniture.png
+	"11fa4311ceabae96ac58b954921b2930f82724c2.png", // collectible_furs.png
+	"f237f6c7e3b6c6aac01ae7f51cd917bdeb6ddec2.png", // collectible_grain_sacks.png
+	"5411ec93e61930e6eb3a958c56b81ba63023a9ee.png", // collectible_heart_fruit.png
+	"bd76cd8196c23aaf73139bc263002cf759afc1ce.png", // collectible_herbs.png
+	"8257a3e50f6ae19db4aeb2c978949b2d81021a61.png", // collectible_kettle.png
+	"77ea4e96f3a2fbe1a73a5cfe6892fa1fc5343d51.png", // collectible_mounten_ore.png
+	"3da48a638753a4f5c846a433d6f984e25bb0954c.png", // collectible_plants.png
+	"29e687a31e953020cf937c36a8fa5036793b89ec.png", // collectible_pumpkin.png
+	"d8c8060e31406770e71c5c6557f1873c2e424920.png", // collectible_sacks.png
+	"4afb3220ff0e36afab7a0fcb6368c1c064885178.png", // collectible_scarecrow.png
+	"cca4d11ec41b5976e2e13e6c945bb07b96f656ba.png", // collectible_used_hammer.png
+	"db5c26a467c4f5dee9804c7c88417103515c326a.png"  // collectible_wine_barrel.png
 ];
