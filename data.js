@@ -5,6 +5,8 @@ var replacement = decodeURI(
 // http://static.cdn.ubi.com/0018/live/GFX_HASHED/building_lib/
 
 var collectibles = [
+	"d1d8cf6dcf7597f57377a3b028307fb54d5678d8.png", // buffad_collectible_bridge_base_material.png
+	"30f0baaaa12e4447144153f46136b449dd3c3b75.png", // buffad_collectible_picks.png
 	"266a7e26836bc830512cd0ea919481562a0009df.png", // collectible_adamantium.png
 	"7dc1e1f289646ba15aeef107efe7026ebb58e8b1.png", // collectible_banner.png
 	"1dd24082bcd22fc20777357499e2394897e2a37a.png", // collectible_barrels.png
