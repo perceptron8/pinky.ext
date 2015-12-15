@@ -7,6 +7,20 @@ var replacement = decodeURI(
 var collectibles = [
 	"d1d8cf6dcf7597f57377a3b028307fb54d5678d8.png", // buffad_collectible_bridge_base_material.png
 	"30f0baaaa12e4447144153f46136b449dd3c3b75.png", // buffad_collectible_picks.png
+	"d8bcb64f81ea66d2bb405a76352d1e54bf51ee0b.png", // c_banana.png
+	"dc81f60a9758824be51adf5523863d318b9a7142.png", // c_boxing_glove.png
+	"144e19ee3f16e12972695cea95ba2024b9dec3cf.png", // c_christmas_bells.png
+	"c55f730b452e9ac32a2fa2de53f71493712a2db5.png", // c_christmas_candy_cane.png
+	"6d11dcde93afce91bc146f88e622f450201e4fff.png", // c_christmas_gingerbread.png
+	"bbe605e78fc86bb2ab28109efa16a571701e8ab0.png", // c_corner_flag.png
+	"18704a048ab2e8da9b94bca25b9b7b6b1dce817c.png", // c_eggpaint.png
+	"1f49e02e088178d0aa7483135784ae22555c52b9.png", // c_football.png
+	"14c7944b896b543eb00773e83b451f6032d9566e.png", // c_plain_egg.png
+	"a64bb599de5b4cff09cf5d93f68db2d563a7cf39.png", // c_red_paint.png
+	"ce8c87f1da7663e716162c2dcd43b1504e08fa93.png", // c_shoe.png
+	"4a2c4c60a0fc0e8320ae43afd0a60f52acf6fe35.png", // c_spring.png
+	"84e216219729c2f916780a3b80950bc5afe0725e.png", // c_telescope.png
+	"ff2bd6901dd57d55a5a7a7f5d632ee4e2e9a15d6.png", // c_wicker_basket.png
 	"266a7e26836bc830512cd0ea919481562a0009df.png", // collectible_adamantium.png
 	"7dc1e1f289646ba15aeef107efe7026ebb58e8b1.png", // collectible_banner.png
 	"1dd24082bcd22fc20777357499e2394897e2a37a.png", // collectible_barrels.png
