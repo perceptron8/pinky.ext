@@ -8,13 +8,17 @@ var slice = function(str, sep) {
 };
 
 var callback = function(details) {
-	var resource = slice(details.url, "/");
-	if (collectibles.has(resource)) {
-		return { "redirectUrl": replacement };
+	var otherType = details.type == "other";
+	var objectType = details.type == "object";
+	if (otherType || objectType) {
+		var resource = slice(details.url, "/");
+		if (collectibles.has(resource)) {
+			return { "redirectUrl": replacement };
+		}
 	}
 };
 
-var filter = { "urls": ["http://*/*.png"], "types": ["object", "other"] };
+var filter = {"urls": ["http://*/*.png"]};
 var options = ["blocking"];
 
 chrome.webRequest.onBeforeRequest.addListener(
