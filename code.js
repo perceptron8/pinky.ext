@@ -14,7 +14,7 @@ var callback = function(details) {
 	}
 };
 
-var filter = { "urls": ["http://*/*.png"], "types": ["other"] };
+var filter = { "urls": ["http://*/*.png"], "types": ["object", "other"] };
 var options = ["blocking"];
 
 chrome.webRequest.onBeforeRequest.addListener(
