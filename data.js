@@ -29,6 +29,8 @@ var collectibles = [
 	"0c1d43eea8d2e74ab52103c30e3ac2f6eea5dd91.png", // collectible_bucket.png
 	"5a204d4374fefad3d55858a62850c81804f18978.png", // collectible_dead_crops.png
 	"5621cbed3a6b20791e0439123b8231b459a668ea.png", // collectible_dead_tree_wood.png
+	"31437bd8393e7b6c386bc72f045530009e09b50c.png", // collectible_easter2015_frightened_chicken.png
+	"85ce87088f887aed36f7d4b1ee2b423c82b30a99.png", // collectible_easter2015_stinky_plant.png
 	"d5de5a5369c541c8b9f1d2efe2a3a7d5b7acd4cb.png", // collectible_egg.png
 	"ab5333c0dc06caddc500444d976132936aa98eab.png", // collectible_fire_wood.png
 	"1515f7c8c753cc379ea7056062297f92d5ccfe85.png", // collectible_flower.png
