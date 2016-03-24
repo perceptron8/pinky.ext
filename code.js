@@ -8,13 +8,9 @@ var slice = function(str, sep) {
 };
 
 var callback = function(details) {
-	var otherType = details.type == "other";
-	var objectType = details.type == "object";
-	if (otherType || objectType) {
-		var resource = slice(details.url, "/");
-		if (collectibles.has(resource)) {
-			return { "redirectUrl": replacement };
-		}
+	var resource = slice(details.url, "/");
+	if (collectibles.has(resource)) {
+		return { "redirectUrl": replacement };
 	}
 };
 
