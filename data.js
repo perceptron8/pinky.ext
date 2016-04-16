@@ -48,6 +48,7 @@ var collectibles = [
 	"d8c8060e31406770e71c5c6557f1873c2e424920.png", // collectible_sacks.png
 	"4afb3220ff0e36afab7a0fcb6368c1c064885178.png", // collectible_scarecrow.png
 	"ae018b91595f76a6ced714a49c185314ff545576.png", // collectible_stinky_mushroom.png
+	"62b89f4ed680ca42fff2ffb9273131867c97856c.png", // collectible_training_dummy.png
 	"cca4d11ec41b5976e2e13e6c945bb07b96f656ba.png", // collectible_used_hammer.png
 	"db5c26a467c4f5dee9804c7c88417103515c326a.png"  // collectible_wine_barrel.png
 ];
