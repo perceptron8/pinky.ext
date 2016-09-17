@@ -1,5 +1,5 @@
 var replacement = decodeURI(
-	"http://dummyimage.com/128x128/ff00ff/ff00ff.png"
+	"http://static.cdn.ubi.com/0018/live/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
 );
 
 // http://static.cdn.ubi.com/0018/live/GFX_HASHED/building_lib/
