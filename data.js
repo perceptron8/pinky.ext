@@ -12,10 +12,12 @@ var collectibles = [
 	"144e19ee3f16e12972695cea95ba2024b9dec3cf.png", // c_christmas_bells.png
 	"c55f730b452e9ac32a2fa2de53f71493712a2db5.png", // c_christmas_candy_cane.png
 	"6d11dcde93afce91bc146f88e622f450201e4fff.png", // c_christmas_gingerbread.png
+	"91cc31f70b5c84a1a8f7882b93947c8ffcf44988.png", // c_clue.png
 	"bbe605e78fc86bb2ab28109efa16a571701e8ab0.png", // c_corner_flag.png
 	"18704a048ab2e8da9b94bca25b9b7b6b1dce817c.png", // c_eggpaint.png
 	"1f49e02e088178d0aa7483135784ae22555c52b9.png", // c_football.png
 	"14c7944b896b543eb00773e83b451f6032d9566e.png", // c_plain_egg.png
+	"270c6c638bcbe5113fbe0589b8e25b136782c01d.png", // c_mushroom_red.png
 	"a64bb599de5b4cff09cf5d93f68db2d563a7cf39.png", // c_red_paint.png
 	"ce8c87f1da7663e716162c2dcd43b1504e08fa93.png", // c_shoe.png
 	"4a2c4c60a0fc0e8320ae43afd0a60f52acf6fe35.png", // c_spring.png
