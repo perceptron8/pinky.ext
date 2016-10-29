@@ -1,10 +1,9 @@
-var replacement = decodeURI(
-	"http://static.cdn.ubi.com/0018/live/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
-);
+"use strict";
 
-// http://static.cdn.ubi.com/0018/live/GFX_HASHED/building_lib/
+const base =
+	"http://static.cdn.ubi.com/0018/live/GFX_HASHED/building_lib/";
 
-var collectibles = [
+const collectibles = [
 	"d1d8cf6dcf7597f57377a3b028307fb54d5678d8.png", // buffad_collectible_bridge_base_material.png
 	"30f0baaaa12e4447144153f46136b449dd3c3b75.png", // buffad_collectible_picks.png
 	"d8bcb64f81ea66d2bb405a76352d1e54bf51ee0b.png", // c_banana.png
@@ -16,8 +15,8 @@ var collectibles = [
 	"bbe605e78fc86bb2ab28109efa16a571701e8ab0.png", // c_corner_flag.png
 	"18704a048ab2e8da9b94bca25b9b7b6b1dce817c.png", // c_eggpaint.png
 	"1f49e02e088178d0aa7483135784ae22555c52b9.png", // c_football.png
-	"14c7944b896b543eb00773e83b451f6032d9566e.png", // c_plain_egg.png
 	"270c6c638bcbe5113fbe0589b8e25b136782c01d.png", // c_mushroom_red.png
+	"14c7944b896b543eb00773e83b451f6032d9566e.png", // c_plain_egg.png
 	"a64bb599de5b4cff09cf5d93f68db2d563a7cf39.png", // c_red_paint.png
 	"ce8c87f1da7663e716162c2dcd43b1504e08fa93.png", // c_shoe.png
 	"4a2c4c60a0fc0e8320ae43afd0a60f52acf6fe35.png", // c_spring.png
@@ -54,3 +53,12 @@ var collectibles = [
 	"cca4d11ec41b5976e2e13e6c945bb07b96f656ba.png", // collectible_used_hammer.png
 	"db5c26a467c4f5dee9804c7c88417103515c326a.png"  // collectible_wine_barrel.png
 ];
+
+const replacement = 
+	"f9f7e2bacd84c76001820a3621bda5c6959d609d.png"  // bw_w_firebowl
+
+const callback = details => ({"redirectUrl": base + replacement});
+const filter = {"urls": collectibles.map(collectible => base + collectible)};
+const options = ["blocking"];
+
+chrome.webRequest.onBeforeRequest.addListener(callback, filter, options);

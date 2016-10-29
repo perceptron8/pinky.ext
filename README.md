@@ -3,7 +3,9 @@ pinky
 
 ![](icon.png)
 
-Chrome extension making [The Settlers Online](http://www.thesettlersonline.com/) collectibles easy to find!
+Web Extension making [The Settlers Online](http://www.thesettlersonline.com/) collectibles easy to find!
+
+Pinky works in Chrome, Edge, Firefox and Opera!
 
 ## What?
 
@@ -25,11 +27,12 @@ Pinky replaces...
 
 It intercepts some of requests made by your browser (see: [#Permissions](#Permissions)).
 If request's url matches one of known collectibles urls, it is redirected to something more... visible.
-Check out [Chrome JavaScript APIs](https://developer.chrome.com/extensions/webRequest) for details.
+Check out [JavaScript APIs](https://developer.chrome.com/extensions/webRequest) for details.
+
 
 ## Where?
 
-You can install Pinky directly from [Chrome Web Store](https://chrome.google.com/webstore/detail/pinky/eijmklfnehnnkbfcoabieogaomookbna) with just one click.
+You can install Pinky with just one click.
 
 <a href="https://chrome.google.com/webstore/detail/pinky/eijmklfnehnnkbfcoabieogaomookbna"><img src="https://developer.chrome.com/webstore/images/ChromeWebStore_Badge_v2_206x58.png"/></a>
 
