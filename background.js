@@ -55,7 +55,7 @@ const collectibles = [
 ];
 
 const replacement = 
-	"f9f7e2bacd84c76001820a3621bda5c6959d609d.png"  // bw_w_firebowl
+	"f9f7e2bacd84c76001820a3621bda5c6959d609d.png"; // bw_w_firebowl
 
 const callback = details => ({"redirectUrl": base + replacement});
 const filter = {"urls": collectibles.map(collectible => base + collectible)};
