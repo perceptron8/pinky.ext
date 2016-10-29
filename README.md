@@ -3,7 +3,7 @@ pinky
 
 ![](icon.png)
 
-Extension making [The Settlers Online](http://www.thesettlersonline.com/) collectibles easy to find!
+Web Extension making [The Settlers Online](http://www.thesettlersonline.com/) collectibles easy to find!
 
 ## What?
 

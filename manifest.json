@@ -5,8 +5,8 @@
   "name": "Pinky",
   "short_name": "Pinky",
   "author": "perceptron8",
-  "description": "Extension making 'The Settlers Online' collectibles easy to find!",
-  
+  "description": "Web Extension making 'The Settlers Online' collectibles easy to find!",
+  "homepage_url": "https://github.com/perceptron8/pinky.ext",
   "version": "0.2.1",
   
   "icons": {
