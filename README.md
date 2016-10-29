@@ -5,7 +5,7 @@ pinky
 
 Web Extension making [The Settlers Online](http://www.thesettlersonline.com/) collectibles easy to find!
 
-Pinky works in Chrome, Edge, Firefox and Opera!
+Pinky should now work in Chrome, Edge, Firefox and Opera!
 
 ## What?
 
@@ -29,7 +29,6 @@ It intercepts some of requests made by your browser (see: [#Permissions](#Permis
 If request's url matches one of known collectibles urls, it is redirected to something more... visible.
 Check out [JavaScript APIs](https://developer.chrome.com/extensions/webRequest) for details.
 
-
 ## Where?
 
 You can install Pinky with just one click.
@@ -40,7 +39,7 @@ Happy collecting! ;-)
 
 ## Permissions
 
-Pinky is not greedy! It only needs to read and modify data from [static.cdn.ubi.com](http://static.cdn.ubi.com) site.
+Pinky isn't greedy! It only needs to read and modify data from [static.cdn.ubi.com](http://static.cdn.ubi.com) site.
 
 ## Tips
 
