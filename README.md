@@ -3,9 +3,7 @@ pinky
 
 ![](icon.png)
 
-Web Extension making [The Settlers Online](http://www.thesettlersonline.com/) collectibles easy to find!
-
-Pinky should now work in Chrome, Edge, Firefox and Opera!
+Extension making [The Settlers Online](http://www.thesettlersonline.com/) collectibles easy to find!
 
 ## What?
 
@@ -25,24 +23,30 @@ Pinky replaces...
 
 ## How?
 
-It intercepts some of requests made by your browser (see: [#Permissions](#Permissions)).
-If request's url matches one of known collectibles urls, it is redirected to something more... visible.
+It redirects some of the requests made by your browser (see [Permissions](#permissions)]).
+
 Check out [JavaScript APIs](https://developer.chrome.com/extensions/webRequest) for details.
 
 ## Where?
 
-You can install Pinky with just one click.
+You can install Pinky with just one click!
 
-<a href="https://chrome.google.com/webstore/detail/pinky/eijmklfnehnnkbfcoabieogaomookbna"><img src="https://developer.chrome.com/webstore/images/ChromeWebStore_Badge_v2_206x58.png"/></a>
+- [Chrome Web Store](https://chrome.google.com/webstore/detail/pinky/eijmklfnehnnkbfcoabieogaomookbna)
 
-Happy collecting! ;-)
+<!--
+- [Firefox Add-Ons](https://addons.mozilla.org/en-US/firefox/addon/_pinky)
+-->
+
+Happy collecting ;-)
 
 ## Permissions
 
-Pinky isn't greedy! It only needs to read and modify data from [static.cdn.ubi.com](http://static.cdn.ubi.com) site.
+Pinky needs to "read and change your data on static.cdn.ubi.com".
+
+It has no access to any of your personal/profile data.
 
 ## Tips
 
-Only if you really like it...
+If you really like...
 
-<p><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=BVCT6E8FW7P7Q&lc=US&item_name=perceptron8%2fpinky&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif"/></a></p>
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=BVCT6E8FW7P7Q&lc=US&item_name=perceptron8%2fpinky&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif"/></a>
