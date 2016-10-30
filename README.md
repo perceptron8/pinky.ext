@@ -40,7 +40,7 @@ Happy collecting ;-)
 
 ## Permissions
 
-Pinky needs to read and change your data on static.cdn.ubi.com only.
+Pinky needs to "read and change your data on static.cdn.ubi.com".
 It has no access to any of your personal/profile data.
 
 ## Tips
