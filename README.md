@@ -24,7 +24,6 @@ Pinky replaces...
 ## How?
 
 It redirects some of the requests made by your browser (see [Permissions](#permissions)]).
-
 Check out [JavaScript APIs](https://developer.chrome.com/extensions/webRequest) for details.
 
 ## Where?
@@ -41,8 +40,7 @@ Happy collecting ;-)
 
 ## Permissions
 
-Pinky needs to "read and change your data on static.cdn.ubi.com".
-
+Pinky needs to read and change your data on static.cdn.ubi.com only.
 It has no access to any of your personal/profile data.
 
 ## Tips
