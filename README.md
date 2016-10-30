@@ -24,11 +24,12 @@ Pinky replaces...
 ## How?
 
 It redirects some of the requests made by your browser (see [Permissions](#permissions)]).
+
 Check out [JavaScript APIs](https://developer.chrome.com/extensions/webRequest) for details.
 
 ## Where?
 
-You can install Pinky with just one click!
+You can install Pinky with just one click.
 
 - [Chrome Web Store](https://chrome.google.com/webstore/detail/pinky/eijmklfnehnnkbfcoabieogaomookbna)
 
@@ -36,11 +37,12 @@ You can install Pinky with just one click!
 - [Firefox Add-Ons](https://addons.mozilla.org/en-US/firefox/addon/_pinky)
 -->
 
-Happy collecting ;-)
+Happy collecting! ;-)
 
 ## Permissions
 
 Pinky needs to "read and change your data on static.cdn.ubi.com".
+
 It has no access to any of your personal/profile data.
 
 ## Tips
