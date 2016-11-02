@@ -1,7 +1,9 @@
 "use strict";
 
-const base =
-	"http://static.cdn.ubi.com/0018/live/GFX_HASHED/building_lib/";
+const bases = [
+	"http://static.cdn.ubi.com/0018/live/GFX_HASHED/building_lib/",
+	"http://static.cdn.ubi.com/0018/prestaging/GFX_HASHED/building_lib/"
+];
 
 const collectibles = [
 	"d1d8cf6dcf7597f57377a3b028307fb54d5678d8.png", // buffad_collectible_bridge_base_material.png
@@ -57,8 +59,8 @@ const collectibles = [
 const replacement = 
 	"f9f7e2bacd84c76001820a3621bda5c6959d609d.png"; // bw_w_firebowl
 
-const callback = details => ({"redirectUrl": base + replacement});
-const filter = {"urls": collectibles.map(collectible => base + collectible)};
-const options = ["blocking"];
-
-chrome.webRequest.onBeforeRequest.addListener(callback, filter, options);
+for (let base of bases) {
+	const callback = details => ({"redirectUrl": base + replacement});
+	const filter = {"urls": collectibles.map(collectible => base + collectible)};
+	chrome.webRequest.onBeforeRequest.addListener(callback, filter, ["blocking"]);
+}
