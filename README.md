@@ -32,6 +32,7 @@ Check out [JavaScript APIs](https://developer.chrome.com/extensions/webRequest) 
 You can install Pinky with just one click.
 
 - [Chrome Web Store](https://chrome.google.com/webstore/detail/pinky/eijmklfnehnnkbfcoabieogaomookbna)
+- [Opera add-ons](https://addons.opera.com/extensions/details/pinky/)
 
 <!--
 - [Firefox Add-Ons](https://addons.mozilla.org/en-US/firefox/addon/_pinky)
