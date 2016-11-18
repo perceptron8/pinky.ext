@@ -31,12 +31,16 @@ Check out [JavaScript APIs](https://developer.chrome.com/extensions/webRequest) 
 You can install Pinky with just one click.
 
 - [Chrome Web Store](https://chrome.google.com/webstore/detail/pinky/eijmklfnehnnkbfcoabieogaomookbna)
-- [Firefox add-ons](https://addons.mozilla.org/addon/_pinky/)
+- [Firefox add-ons](https://addons.mozilla.org/addon/_pinky/)*
 - [Opera add-ons](https://addons.opera.com/extensions/details/pinky/)
 
-<!--
-- [Firefox Add-Ons](https://addons.mozilla.org/en-US/firefox/addon/_pinky)
--->
+## Usage
+
+In case of Firefox, make sure that [Electrolysis](https://wiki.mozilla.org/Electrolysis#Firefox_Release) is enabled. With Chrome or Opera, you don't need to enable anything.
+
+1. Clear your browser's cache.
+2. Run the game.
+3. That's it!
 
 Happy collecting! ;-)
 
