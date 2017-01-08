@@ -1,4 +1,4 @@
-pinky
+Pinky
 =====
 
 ![](icon.png)
