@@ -36,7 +36,9 @@ You can install Pinky with just one click.
 
 ## Usage
 
-Chrome and Opera are ready to go: you don't need to enable anything! :-) In case of Firefox, make sure that [Electrolysis](https://wiki.mozilla.org/Electrolysis#Firefox_Release) is enabled. You may need to [Force Enable](https://wiki.mozilla.org/Electrolysis#Force_Enable).
+In case of Firefox, make sure that [Electrolysis](https://wiki.mozilla.org/Electrolysis#Firefox_Release) is enabled. You may need to [Force Enable](https://wiki.mozilla.org/Electrolysis#Force_Enable).
+
+Chrome and Opera are ready to go! You don't need to enable anything. :-)
 
 1. Install Pinky.
 2. Clear your browser's cache.
