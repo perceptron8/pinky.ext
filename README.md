@@ -36,11 +36,12 @@ You can install Pinky with just one click.
 
 ## Usage
 
-In case of Firefox, make sure that [Electrolysis](https://wiki.mozilla.org/Electrolysis#Firefox_Release) is enabled. With Chrome or Opera, you don't need to enable anything.
+Chrome and Opera are ready to go: you don't need to enable anything! :-) In case of Firefox, make sure that [Electrolysis](https://wiki.mozilla.org/Electrolysis#Firefox_Release) is enabled. You may need to [Force Enable](https://wiki.mozilla.org/Electrolysis#Force_Enable).
 
-1. Clear your browser's cache.
-2. Run the game.
-3. That's it!
+1. Install Pinky.
+2. Clear your browser's cache.
+3. Run the game.
+4. That's it!
 
 Happy collecting! ;-)
 
