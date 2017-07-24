@@ -30,6 +30,7 @@
   "permissions": [
     "webRequest",
     "webRequestBlocking",
-    "http://static.cdn.ubi.com/"
+    "http://static.cdn.ubi.com/",
+    "https://ubistatic-a.akamaihd.net/"
   ]
 }
