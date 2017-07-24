@@ -49,7 +49,7 @@ Happy collecting! ;-)
 
 ## Permissions
 
-Pinky needs to "read and change your data on static.cdn.ubi.com".
+Pinky needs to "read and change your data on static.cdn.ubi.com and ubistatic-a.akamaihd.net".
 
 It has no access to any of your personal/profile data.
 
