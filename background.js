@@ -27,6 +27,7 @@ const collectibles = [
 	"84e216219729c2f916780a3b80950bc5afe0725e.png", // c_telescope.png
 	"ff2bd6901dd57d55a5a7a7f5d632ee4e2e9a15d6.png", // c_wicker_basket.png
 	"266a7e26836bc830512cd0ea919481562a0009df.png", // collectible_adamantium.png
+	"a5f5d240cff9ff0e625eef02d7d926dc0ee92a63.png", // collectible_axe.png
 	"7dc1e1f289646ba15aeef107efe7026ebb58e8b1.png", // collectible_banner.png
 	"1dd24082bcd22fc20777357499e2394897e2a37a.png", // collectible_barrels.png
 	"df8a33947846c9f8ce2f2902a0cdba4adf8b7b48.png", // collectible_boards.png
@@ -53,6 +54,7 @@ const collectibles = [
 	"29e687a31e953020cf937c36a8fa5036793b89ec.png", // collectible_pumpkin.png
 	"d8c8060e31406770e71c5c6557f1873c2e424920.png", // collectible_sacks.png
 	"4afb3220ff0e36afab7a0fcb6368c1c064885178.png", // collectible_scarecrow.png
+	"2f723e660a18567097b0353bb1b968b68235cf80.png", // collectible_scrap.png
 	"ae018b91595f76a6ced714a49c185314ff545576.png", // collectible_stinky_mushroom.png
 	"62b89f4ed680ca42fff2ffb9273131867c97856c.png", // collectible_training_dummy_01.png
 	"cca4d11ec41b5976e2e13e6c945bb07b96f656ba.png", // collectible_used_hammer.png
