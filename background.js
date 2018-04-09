@@ -64,7 +64,7 @@ const collectibles = [
 const replacement = 
 	"f9f7e2bacd84c76001820a3621bda5c6959d609d.png"; // bw_w_firebowl
 
-for (let base of bases) {
+for (const base of bases) {
 	const callback = details => ({"redirectUrl": base + replacement});
 	const filter = {"urls": collectibles.map(collectible => base + collectible)};
 	chrome.webRequest.onBeforeRequest.addListener(callback, filter, ["blocking"]);
