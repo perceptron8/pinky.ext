@@ -4,7 +4,7 @@ const bases = [
 	"http://static.cdn.ubi.com/0018/live/GFX_HASHED/building_lib/",
 	"http://static.cdn.ubi.com/0018/prestaging/GFX_HASHED/building_lib/",
 	"https://ubistatic-a.akamaihd.net/0018/live/GFX_HASHED/building_lib/",
-	"https://ubistatic-a.akamaihd.net/0018/prestaging/GFX_HASHED/building_lib/"
+	"https://ubistatic-a.akamaihd.net/0018/prestaging/GFX_HASHED/building_lib/",
 ];
 
 const collectibles = [
