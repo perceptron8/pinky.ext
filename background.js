@@ -50,6 +50,7 @@ const collectibles = [
 	"8257a3e50f6ae19db4aeb2c978949b2d81021a61.png", // collectible_kettle.png
 	"a761cd0aeca1a908ee28c76f882fb3970178f7cf.png", // collectible_magic_stone.png
 	"77ea4e96f3a2fbe1a73a5cfe6892fa1fc5343d51.png", // collectible_mounten_ore.png
+	"26fc61e2116da08a17348064af90a8bbbbe94dd2.png", // collectible_obsidian_shard.png
 	"3da48a638753a4f5c846a433d6f984e25bb0954c.png", // collectible_plants.png
 	"29e687a31e953020cf937c36a8fa5036793b89ec.png", // collectible_pumpkin.png
 	"d8c8060e31406770e71c5c6557f1873c2e424920.png", // collectible_sacks.png
