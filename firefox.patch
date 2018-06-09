@@ -1,6 +1,6 @@
 --- manifest.json
 +++ manifest.json
-@@ -30,6 +30,5 @@
+@@ -28,6 +28,5 @@
    "permissions": [
      "webRequest",
      "webRequestBlocking",
