@@ -33,6 +33,8 @@ const collectibles = [
 	"061b11241a55f20fca07cf2402664e1071951cac.png", // collectible_boards.png
 	"4879d59fc8fa0ce0ba5e87b4c34031f2e16ca5f9.png", // collectible_bronze_cauldron.png
 	"ef852bd0ef3ef2b02a2c180d1a0bfefe63051372.png", // collectible_bucket.png
+	"64af56a292cf9dc1f77bbd9332119dd3b46e3a9f.png", // collectible_cake_candles.png
+	"589ca2af5d39b45a8ee351f55985d113e9cac13d.png", // collectible_cake_dough.png
 	"1dae4b67796b04f1242947f892577e02f491494b.png", // collectible_dead_crops.png
 	"fbbcfff52f8f7be597007da1c55233599135573c.png", // collectible_dead_tree_wood.png
 	"842e318c70fa98a74fdc9e756ab014a9c8d12648.png", // collectible_easter2015_frightened_chicken.png
