@@ -31,9 +31,11 @@
     "webRequest",
     "webRequestBlocking",
     "http://static.cdn.ubi.com/",
-    "https://juego-thesettlersonline.com/",
     "https://ubistatic-a.akamaihd.net/",
+    "https://www.tsotesting.com/",
+    "https://juego-thesettlersonline.com/",
     "https://www.diesiedleronline.de/",
+    "https://www.thesettlersonline.com/",
     "https://www.thesettlersonline.com.br/",
     "https://www.thesettlersonline.cz/",
     "https://www.thesettlersonline.es/",
@@ -44,7 +46,6 @@
     "https://www.thesettlersonline.nl/",
     "https://www.thesettlersonline.pl/",
     "https://www.thesettlersonline.ro/",
-    "https://www.thesettlersonline.ru/",
-    "https://www.tsotesting.com/"
+    "https://www.thesettlersonline.ru/"
   ]
 }
