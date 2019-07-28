@@ -63,7 +63,7 @@ const collectibles = [
 	"834da7887bbb2dbb03d34c9904d2d895e44a0a4e.png", // collectible_training_dummy_01.png
 	"f9f338abb455ab0a17b55ae1ba552b70a684c3aa.png", // collectible_used_hammer.png
 	"ed7377941c61f005b031ae119e98aa138793936e.png", // collectible_wine_barrel.png
-	// reduced
+	// optimized
 	"3d22e289f157476f3a79a53c1ce2d16b29064c8a.png", // buffad_collectible_bridge_base_material.png
 	"27b0441fe4a8812665b8af61972966d5294a9ecb.png", // buffad_collectible_picks.png
 	"2283394af62449b6d1012dc0c2a8ddfc2cabd34c.png", // c_banana.png
@@ -118,6 +118,61 @@ const collectibles = [
 	"233979928224b1254b60f63c7eafd96651f9ea6a.png", // collectible_training_dummy_01.png
 	"98ff078c8804608fff67ce5c1f11ee8abeb89633.png", // collectible_used_hammer.png
 	"f7890455b2a22f29265b63966cfa22f0dd069906.png", // collectible_wine_barrel.png
+	// further optimized
+	"887d0bbc6959d92595028a12e184de62c065d6ac.png", // buffad_collectible_bridge_base_material.png
+	"5a0dfbb96d2f527daed2ac5dddc32cfbb889df9c.png", // buffad_collectible_picks.png
+	"2283394af62449b6d1012dc0c2a8ddfc2cabd34c.png", // c_banana.png
+	"c11e14421d3f64ac4cf2f26888deff9f4ad0e964.png", // c_boxing_glove.png
+	"144e19ee3f16e12972695cea95ba2024b9dec3cf.png", // c_christmas_bells.png
+	"c55f730b452e9ac32a2fa2de53f71493712a2db5.png", // c_christmas_candy_cane.png
+	"6d11dcde93afce91bc146f88e622f450201e4fff.png", // c_christmas_gingerbread.png
+	"15e6e9e0530c90735c5cf589c4f7289bfff345ed.png", // c_clue.png
+	"fd051d9f5c663494141f9c891ae026e9ac0af62b.png", // c_corner_flag.png
+	"0f6796a0845db6618f98d949a67a0979d03ec7de.png", // c_eggpaint.png
+	"8c7f90c5f97c733c0975b2db5a6b8e6605549f47.png", // c_football.png
+	"2fec40fa97eca571ebb00672a8c73c193f38b71f.png", // c_mushroom_red.png
+	"70dc23e44a76aa0eca1a59cbae657bbd3cfd2b63.png", // c_plain_egg.png
+	"be974b1d2f2b57bd6d43edfdd08d4768f8e909bb.png", // c_red_paint.png
+	"b66acaaa3a29fd7a1ce8ea1654a316ca86127bdf.png", // c_shoe.png
+	"de44eef412ce71fe5dd9275dc67e685ed1f8fd2e.png", // c_spring.png
+	"b7639e0a05e784364057a1c555ade7863e9e1419.png", // c_telescope.png
+	"c318a870415a5f5eed83785e10e5a886ad8c6cc4.png", // c_wicker_basket.png
+	"d46103a73c451ee44dbd5326eba43228847dc666.png", // collectible_adamantium.png
+	"5b8c3f640c0793a50d652a94bef1ba4e246d87e7.png", // collectible_axe.png
+	"a92f02a27ec5e26d094125bfd0eefb7a0ab09078.png", // collectible_banner.png
+	"f2ccdb36d164698dd86b05026fac8aff7fdf3319.png", // collectible_barrels.png
+	"6871e205492a0d839b6a2d4d4ecbac482f3823c9.png", // collectible_boards.png
+	"f4652e8d26e97e61b647943107ee51dc07756f85.png", // collectible_bronze_cauldron.png
+	"d3bf085d3c0990e34d469313596c2be4d4cb75e9.png", // collectible_bucket.png
+	"5bb958c062d12e9ce5695c2abdf54afe770df3c2.png", // collectible_cake_candles.png
+	"4a4b80a26f833d4ad5d8108295afe59a18256cda.png", // collectible_cake_dough.png
+	"2ee32682b2dd548c236717b188bcb232a6ccd9a4.png", // collectible_dead_crops.png
+	"c7d8430b495b1bd17232a1dc75c989f055652eb9.png", // collectible_dead_tree_wood.png
+	"00872a8080dc33da568c52574e7444f438a2b736.png", // collectible_easter2015_frightened_chicken.png
+	"f5c80ff0db89963d9108cf0e0662eccf2d985b0b.png", // collectible_easter2015_stinky_plant.png
+	"6c39d6dc53c18538f496e4d8a0ba0be8aced8e7e.png", // collectible_egg.png
+	"9cf7cb42c8c84dec696bf7e66a12ce87a0f2748b.png", // collectible_fire_wood.png
+	"013812340c9f83ea73165335a64bb6ddd1390e39.png", // collectible_flower.png
+	"35137a340334a85cc312cd0125147a8da7f6d6ee.png", // collectible_food_cart.png
+	"42fe0c9a4bc3784975f8a0ac07d392d2b5352da0.png", // collectible_furniture.png
+	"a0c2108cddf576e330aa21b5e04754e2369c39a5.png", // collectible_furs.png
+	"5b008be044c4859502bf3919714b14fd029aa8dc.png", // collectible_glowing_herbs.png
+	"8c9ecf8d253917745d13e125d64ee40d36920ac1.png", // collectible_grain_sacks.png
+	"f8f979e2bb796b395a038e840786bf22c4f74059.png", // collectible_heart_fruit.png
+	"6a9176d1b550e28f1b3035768b5e108a42537123.png", // collectible_herbs.png
+	"afc95b1f2c365eeb408cfa0310fa9da654d0af12.png", // collectible_kettle.png
+	"c30e216632e609040bb88f46fa616b01627b809c.png", // collectible_magic_stone.png
+	"34bb2eac01a8df915377c21170cf79771597d58a.png", // collectible_mounten_ore.png
+	"7c3fc1e5846631e7aa1ea12db7be39552be51cb1.png", // collectible_obsidian_shard.png
+	"7c9e5dfa688533ac5139c3f9e51b87a273a1fc6a.png", // collectible_plants.png
+	"8e392036f02375805e35ad05a35043c3b7bb4533.png", // collectible_pumpkin.png
+	"dd92e6a4c61bcae199005b9242e44270e70b99d5.png", // collectible_sacks.png
+	"27d70a9c1843abafbd6774f411fab367ef3922c8.png", // collectible_scarecrow.png
+	"06a353125f1aa867d1835ea425b2ce3bae343a07.png", // collectible_scrap.png
+	"23bc996ab6100a06a411fb20ced0f9aae8ccf36c.png", // collectible_stinky_mushroom.png
+	"2ea0b064c18877d7ef08ada74885a62958655b80.png", // collectible_training_dummy_01.png
+	"f68e41d51869dbcd91c5adeeee8267b9024c0821.png", // collectible_used_hammer.png
+	"638ba3982b33d0a7c5558798a984605ae75c3fdb.png", // collectible_wine_barrel.png
 ];
 
 const replacement = 
