@@ -82,15 +82,15 @@ const collectibles = [
 	"de44eef412ce71fe5dd9275dc67e685ed1f8fd2e.png", // c_spring.png
 	"b7639e0a05e784364057a1c555ade7863e9e1419.png", // c_telescope.png
 	"c318a870415a5f5eed83785e10e5a886ad8c6cc4.png", // c_wicker_basket.png
-	"5d517db57eaae8a68830a49feb8e69c965d0cb4d.png", // collectible_adamantium.png
+	"79737b1110beee674169b9726b6cf26bb4f65eda.png", // collectible_adamantium.png
 	"dbe46525ddd9475ec0e4ee1e7bbd8f69146ece8b.png", // collectible_axe.png
-	"b7eaa4488a229cac52d1e031fedeefd7b97582fc.png", // collectible_banner.png
-	"283538564519dca4309cdc3ca6c72bdcdb6afa75.png", // collectible_barrels.png
+	"5a6a63ac07f76a22ecfd6c5345a6bf7263c8b984.png", // collectible_banner.png
+	"2b4350e7b95f34a60716cfd61e43523747ccd6be.png", // collectible_barrels.png
 	"7bf4444e950d8526ffa99e6b0bbec2d12661cb46.png", // collectible_boards.png
-	"a742110c8c65cbef35c5a26e0a47d4efaf66cac1.png", // collectible_bronze_cauldron.png
+	"78cc542b4119344c7d1aa7208d20865735a58e6a.png", // collectible_bronze_cauldron.png
 	"72e3ad4b1748dd0b777ff3dcd18145bbd0983870.png", // collectible_bucket.png
-	"22964054852e428544c85ba620009100dcada507.png", // collectible_cake_candles.png
-	"0ace11531bb218d3602d82f70bc6ed543daf4cf1.png", // collectible_cake_dough.png
+	"1e6e3655449f735830b2eb372ceec02ca9b45c12.png", // collectible_cake_candles.png
+	"3f5262a09c91b712e39dec12055e2904ea65280a.png", // collectible_cake_dough.png
 	"d8554de0337f5a4fea7a227154cf572222600846.png", // collectible_dead_crops.png
 	"6ad06e0ac1351d47248d0fa1cf900c3025b24b6e.png", // collectible_dead_tree_wood.png
 	"8806f72ac4e322714f1d3f0564c2110443809810.png", // collectible_easter2015_frightened_chicken.png
@@ -98,21 +98,21 @@ const collectibles = [
 	"5ddad335cf8a2deb1caad9d742c632942529e4d2.png", // collectible_egg.png
 	"84f8940b6bc60d8eabc2320d42fc73fa57345f9a.png", // collectible_fire_wood.png
 	"ef09d55fa6bc5e3ad4e5a1d11394315af11662bf.png", // collectible_flower.png
-	"64d108babe884b88a3069454dbc4cf03bded22a0.png", // collectible_food_cart.png
+	"fc19c58bc7d246acda181e60b1b6c8fff84adc27.png", // collectible_food_cart.png
 	"2b9a56599b90e8f70ee9a948283f6649a0fa97a9.png", // collectible_furniture.png
-	"dda8da528f94f56d7632dffde29f20e5920aeec3.png", // collectible_furs.png
+	"7d75ff56683710d737f2a7731eaa67d6aadbd1cb.png", // collectible_furs.png
 	"df4c7433c1fc6b17eaac94fb2f9f69657fe7e7b3.png", // collectible_glowing_herbs.png
-	"24437716b427e83c7c024bc0fc0746151c96d806.png", // collectible_grain_sacks.png
+	"bf7d4e41328fb537662485778f2ff6823b40f967.png", // collectible_grain_sacks.png
 	"f31b44c6e175545b648227d5e2de44ea2d38b670.png", // collectible_heart_fruit.png
-	"e6d3971f602cec239e440a7686c5bb66a3118f3b.png", // collectible_herbs.png
-	"893515df8aa2d0b13873d13634c2a20ed7a3ca92.png", // collectible_kettle.png
+	"b8ef35ce36c61db5f68487e74bf6476e826464f6.png", // collectible_herbs.png
+	"0ef2aaac99fc8fb8b5544b073f0882ead0f728e5.png", // collectible_kettle.png
 	"69cecda42189efd869011b2dfc3843da08d22821.png", // collectible_magic_stone.png
-	"a644282215a4cd70c603f77bc6872025ad5fcc43.png", // collectible_mounten_ore.png
-	"1598a00f843e7a3c28e36a435f02cd16696b8393.png", // collectible_obsidian_shard.png
+	"22ecd067bcd739e925b8a799fcb80b332a759205.png", // collectible_mounten_ore.png
+	"c6ae1e572dd1b7b8dfda7961d40488b749ef2751.png", // collectible_obsidian_shard.png
 	"a8e12a2d4252ceeae0cc0562a1ffa3524b1fa613.png", // collectible_plants.png
 	"0ebc734684a8e9f4bf5184859e05e6e72c0ac7bf.png", // collectible_pumpkin.png
-	"43cd0cad62616d330b597bbf8da9f4de9029db74.png", // collectible_sacks.png
-	"111fba22e01a476f89a818825d8e1018ad102ff1.png", // collectible_scarecrow.png
+	"cfda71e70ae34dd1884aa6198d6cb37e9897d5a7.png", // collectible_sacks.png
+	"128ee7672e0e869b05a8c17a4bf090793b57d348.png", // collectible_scarecrow.png
 	"8c9b74cbb21d4efefdd9ca15152ef9e1d5052501.png", // collectible_scrap.png
 	"a0eb2f8f746fdf846d7f9a91b4da62c18a35a0cb.png", // collectible_stinky_mushroom.png
 	"233979928224b1254b60f63c7eafd96651f9ea6a.png", // collectible_training_dummy_01.png
