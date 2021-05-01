@@ -7,7 +7,7 @@
   "author": "perceptron8",
   "description": "Web Extension making 'The Settlers Online' collectibles easy to find!",
   "homepage_url": "https://github.com/perceptron8/pinky.ext",
-  "version": "0.5.0",
+  "version": "0.6.0",
   
   "icons": {
     "128": "icon.png"
