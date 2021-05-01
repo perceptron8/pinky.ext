@@ -1,6 +1,6 @@
 {
-  "manifest_version": 2,
-  "minimum_chrome_version": "50",
+  "manifest_version": 3,
+  "minimum_chrome_version": "84",
   
   "name": "Pinky",
   "short_name": "Pinky",
@@ -13,7 +13,7 @@
     "128": "icon.png"
   },
   
-  "browser_action": {
+  "action": {
     "default_icon": {
       "128": "icon.png"
     },
@@ -21,17 +21,27 @@
     "default_popup": "popup.html"
   },
   
-  "background": {
-    "scripts": [
-      "background.js"
-    ]
+  "declarative_net_request" : {
+    "rule_resources" : [{
+      "id": "prestaging",
+      "enabled": true,
+      "path": "rules/prestaging.json"
+    }, {
+      "id": "staging",
+      "enabled": true,
+      "path": "rules/staging.json"
+    }, {
+      "id": "live",
+      "enabled": true,
+      "path": "rules/live.json"
+    }]
   },
   
   "permissions": [
-    "webRequest",
-    "webRequestBlocking",
-    "http://static.cdn.ubi.com/",
-    "https://ubistatic-a.akamaihd.net/",
+    "declarativeNetRequest"
+  ],
+  
+  "host_permissions": [
     "https://www.tsotesting.com/",
     "https://www.tsotesting2.com/",
     "https://juego-thesettlersonline.com/",

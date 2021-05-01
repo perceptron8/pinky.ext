@@ -1,0 +1,812 @@
+[
+  {
+    "id": 1,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/3d22e289f157476f3a79a53c1ce2d16b29064c8a.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/27b0441fe4a8812665b8af61972966d5294a9ecb.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/2283394af62449b6d1012dc0c2a8ddfc2cabd34c.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 4,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/c11e14421d3f64ac4cf2f26888deff9f4ad0e964.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 5,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/144e19ee3f16e12972695cea95ba2024b9dec3cf.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 6,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/c55f730b452e9ac32a2fa2de53f71493712a2db5.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 7,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/6d11dcde93afce91bc146f88e622f450201e4fff.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 8,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/15e6e9e0530c90735c5cf589c4f7289bfff345ed.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 9,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/fd051d9f5c663494141f9c891ae026e9ac0af62b.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 10,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/0f6796a0845db6618f98d949a67a0979d03ec7de.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 11,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/8c7f90c5f97c733c0975b2db5a6b8e6605549f47.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 12,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/2fec40fa97eca571ebb00672a8c73c193f38b71f.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 13,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/70dc23e44a76aa0eca1a59cbae657bbd3cfd2b63.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 14,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/be974b1d2f2b57bd6d43edfdd08d4768f8e909bb.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 15,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/b66acaaa3a29fd7a1ce8ea1654a316ca86127bdf.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 16,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/de44eef412ce71fe5dd9275dc67e685ed1f8fd2e.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 17,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/b7639e0a05e784364057a1c555ade7863e9e1419.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 18,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/c318a870415a5f5eed83785e10e5a886ad8c6cc4.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 19,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/dd01c5236d806713229fa7791e310776aa62b965.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 20,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/7095574d01338c042aa53c08ef4d4c0c38d51359.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 21,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/8d48c788455abfad5e18b8bde4952b9f7ce0162d.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 22,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/0848be1ac854a26511a47e0c85a880663a975a08.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 23,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/ef295ac38d8f7772a1ed0f382a145ef564c2ec4b.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 24,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/e9e1b9782d61146c2795167c4d7c1510681b86a7.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 25,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/2640a50bd6148ffe691b5ca386c533701eb14911.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 26,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/c0a1d931b960997abdb1b727fa27c9fff26eff58.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 27,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/77f9564a4f3a36bae4b5dee6290081f60d9be161.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 28,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/d8554de0337f5a4fea7a227154cf572222600846.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 29,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/542da7f7b0e2bcc8e8f7348c2502d56f6a3f615b.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 30,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/8806f72ac4e322714f1d3f0564c2110443809810.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 31,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/3baeb0cffbcc8647681b011bca36347008bf4f78.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 32,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/5ddad335cf8a2deb1caad9d742c632942529e4d2.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 33,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/5d0f9c3b15d856ea170908830b238d23a7fa066a.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 34,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/08beb0ce46efc7a2e67170139060554e72c50cd0.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 35,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/41e2ddd8857dbb689db88943e37b810b34e790a5.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 36,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/de8e32fd201db2ce4d6ed13568053ed9c2a93891.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 37,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/3f24a7c79c7047c1c65e60416276d9f3f8edbd40.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 38,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/eef8de2ab600ebe3a866ea4db2e9906c1f1be018.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 39,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/57879fa1fcdf116f9cc1b90be758fe422dc1ae00.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 40,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/85f7298c6a75698b11b6b5a21750f90d345b1c42.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 41,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/e12aae65aabfe05a2220059965d5ecca06edd269.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 42,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/1266cc37d5d7c2243ee9c0f2a2ad4ed1da29ae0c.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 43,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/2b57691bf0e9fdf52d06df3bdb8f195ec622ca5c.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 44,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/39bd270f33fd585365315020ab938866f6ea061e.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 45,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/d3fea8ea1bd7568720f782dc6415dab49bb697f5.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 46,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/314095c559aafba9844d7d60d586d2570025d875.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 47,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/35547500798ad2822b8b1d5d1cf4879e44596ba5.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 48,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/470899b868390b6017bb1ec6931cb2d7d83e35b2.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 49,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/b1c1400ee024f102417514a5449fd75c63eb95b1.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 50,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/3d31ec420b92573da45c321741a0d0081e97c18a.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 51,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/d85dd693901cfbd921a319e29da941ef7b4f36ef.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 52,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/233979928224b1254b60f63c7eafd96651f9ea6a.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 53,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/74b33ba575bb069e8d62e736dbf906dbdc668534.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  },
+  {
+    "id": 54,
+    "condition": {
+      "urlFilter": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/41295d3a07b1854f2f4c77204bd926b990a93da3.png",
+      "resourceTypes": [
+        "xmlhttprequest"
+      ]
+    },
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://ubistatic-a.akamaihd.net/0018/staging/GFX_HASHED/building_lib/f9f7e2bacd84c76001820a3621bda5c6959d609d.png"
+      }
+    }
+  }
+]
