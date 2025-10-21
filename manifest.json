@@ -27,9 +27,18 @@
 		"default_title": "Pinky",
 		"default_popup": "popup.html"
 	},
+
+	"web_accessible_resources": [{
+		"resources": ["image.png"],
+		"matches": ["<all_urls>"]
+	}],
 	
 	"declarative_net_request" : {
 		"rule_resources" : [{
+			"id": "rules",
+			"enabled": true,
+			"path": "rules.json"
+		}, {
 			"id": "prestaging",
 			"enabled": true,
 			"path": "rules/prestaging.json"
