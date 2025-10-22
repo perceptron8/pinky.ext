@@ -24,7 +24,7 @@ with
 
 It redirects some of the requests made by your browser (see [#Permissions](#permissions)).
 
-Check out [JavaScript API](https://developer.chrome.com/extensions/webRequest) for details.
+Check out [declarativeNetRequest API](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/declarativeNetRequest#properties) for details.
 
 ## Where?
 
@@ -38,9 +38,8 @@ You can install Pinky with just one click.
 ## Usage
 
 1. Install Pinky.
-2. Clear your browser's cache.
-3. Run the game.
-4. That's it!
+2. Run the game.
+3. That's it!
 
 Happy collecting! ;-)
 
@@ -48,7 +47,7 @@ Happy collecting! ;-)
 
 Pinky needs to read and change your data on TSO-related sites.
 
-It has no access to any of your personal/profile data.
+It has no access to any of your personal / profile data.
 
 ## Tips
 
