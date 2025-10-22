@@ -24,7 +24,7 @@ with
 
 It redirects some of the requests made by your browser (see [#Permissions](#permissions)).
 
-Check out [declarativeNetRequest API](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/declarativeNetRequest#properties) for details.
+Check out [declarativeNetRequest API](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/declarativeNetRequest) for details.
 
 ## Where?
 
